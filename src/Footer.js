@@ -1,4 +1,3 @@
-// Footer.js
 
 import React from 'react';
 import './Footer.css'; // Import your footer styles if needed
